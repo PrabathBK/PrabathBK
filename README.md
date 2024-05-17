@@ -88,55 +88,83 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+  <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
-     <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
-     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank" rel="noreferrer">
+  <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mathworks.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <a href="https://opencv.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-
-
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="pyqt5" width="40" height="40"/>
+  </a>
+  <a href="https://www.solidworks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/SolidWorks_Logo.png" alt="solidworks" width="40" height="40"/>
+  </a>
+  <a href="https://www.altium.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="altium" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
