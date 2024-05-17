@@ -48,7 +48,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 
 1. **Analog Portable Audio Amplifier**
    - Description: This project Designed a Portable Audio Amplifier using only analog components. 
-   - Repository: [Analog Portable Audio Amplifier](https://github.com/PrabathBK/Analog-Portable-Audio-Amplifier))
+   - Repository: [Analog Portable Audio Amplifier](https://github.com/PrabathBK/Analog-Portable-Audio-Amplifier)
 
 
 ### Telecommunication
