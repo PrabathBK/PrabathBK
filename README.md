@@ -44,6 +44,13 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
    <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>
 
+### Analog Electronics
+
+1. **Analog Portable Audio Amplifier**
+   - Description: This project Designed a Portable Audio Amplifier using only analog components. 
+   - Repository: [Analog Portable Audio Amplifier]([https://github.com/PrabathBK/Communication-Design-Project](https://github.com/PrabathBK/Analog-Portable-Audio-Amplifie))
+
+
 ### Telecommunication
 
 1. **Point to point Communication using SDR and BladeRF**
