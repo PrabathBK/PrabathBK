@@ -63,7 +63,8 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prabath-wijethilaka-4950b220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru basnayake" height="30" width="40" /></a>
-<a href="https://fb.com/yasiru basnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasiru basnayake" height="30" width="40" /></a>
+   
+<a href="https://fb.com/prabath wijethilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasiru basnayake" height="30" width="40" /></a>
 <a href="https://instagram.com/yasiru_lex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasiru_lex" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yasiru fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yasiru fx" height="30" width="40" /></a>
 </p>
