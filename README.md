@@ -25,6 +25,12 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
    <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p>
 
+### Full Stack Development
+1. **Modular Software Development**
+   - Description: Manufacturing and Assembly Line Planning and Management Subsystem for PCB Manufacturing Company
+   - Repository: [Manufacturing SubSystem](https://github.com/PrabathBK/CompanyB.git)
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/admin.png?raw=true" alt="Hydrolink" width="200"/></p>
+
 ### Embedded Systems
 
 1. **UART Communication with FPGA**
@@ -33,22 +39,30 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>
 
 ### Machine Learning
-- Project 1: [Project Title](link)
-  ![Machine Learning Custom Image](https://github.com/yourusername/yourrepository/raw/main/images/ml_project1.png)
-- Project 2: [Project Title](link)
-  ![Machine Learning Custom Image](https://github.com/yourusername/yourrepository/raw/main/images/ml_project2.png)
+1. **DiabetesAI-WebProject**
+   - Description: This web application is designed to predict the likelihood of an individual having diabetes based on various input feature.
+   - Repository: [DiabetesAI](https://github.com/PrabathBK/DiabetesAI-Webproject)
+   <p align="center"><img src="https://github.com/PrabathBK/DiabetesAI-Webproject/blob/main/diabetes.jpg?raw=true" alt="Hydrolink" width="200"/></p>
+2. **SMS Spam Detector**
+   - Description: This repository contains a machine learning model for detecting spam SMS messages.
+   - Repository: [SMS Spam Detector](https://github.com/PrabathBK/SMS-spam-detector)
+3. **Stock Prediction**
+   - Description: This repository contains an analysis and predictive model for stock prices, focusing on Apple Inc. (AAPL)
+   - Repository: [Stock Prediction](https://github.com/PrabathBK/Stock-prediction)
+4. **Breast Cancer Wisconsin Diagnostic predictor**
+   - Description: This repository contains an in-depth analysis of the Breast Cancer Wisconsin Diagnostic Dataset. 
+   - Repository: [Breast Cancer Wisconsin Diagnostic predictor](https://github.com/PrabathBK/Breast-Cancer-Wisconsin-Diagnostic-predictor)
+5. **Cardiovascular Disease Predictor**
+   - Description: This project focuses on predicting the presence or absence of cardiovascular disease based on various health metrics.
+   - Repository: [Cardiovascular Disease Predictor](https://github.com/PrabathBK/Cardiovascular-Disease-Predictor)
 
 
-### Full Stack Development
-- Project 1: [Project Title](link)
-  ![Full Stack Custom Image](https://github.com/yourusername/yourrepository/raw/main/images/fullstack_project1.png)
-- Project 2: [Project Title](link)
-  ![Full Stack Custom Image](https://github.com/yourusername/yourrepository/raw/main/images/fullstack_project2.png)
+
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yasiru basnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru basnayake" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabath-wijethilaka-4950b220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru basnayake" height="30" width="40" /></a>
 <a href="https://fb.com/yasiru basnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasiru basnayake" height="30" width="40" /></a>
 <a href="https://instagram.com/yasiru_lex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasiru_lex" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yasiru fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yasiru fx" height="30" width="40" /></a>
