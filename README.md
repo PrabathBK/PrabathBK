@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/PrabathBK/PrabathBK/blob/main/Image/github.png?raw=true)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!%F0%9F%91%8B+Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
 
 ## About Me
 I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have a deep-rooted interest in:
@@ -21,7 +21,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Text.jpg?raw=true" alt="Hydrolink" width="200"/></p>
 
 2. **Industrial Portable Water Quality Measuring Device**
-   - Description: A device to measure industrial portable water quality.
+   - Description: An industrial portable device to measure water quality.
    - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
    <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p>
 
@@ -30,6 +30,12 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Description: Manufacturing and Assembly Line Planning and Management Subsystem for PCB Manufacturing Company
    - Repository: [Manufacturing SubSystem](https://github.com/PrabathBK/CompanyB.git)
    <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/admin.png?raw=true" alt="Hydrolink" width="200"/></p>
+
+### Mobile App Development
+1. **Industrial Portable Water Quality Measuring Device**
+   - Description: An industrial potable device to measure water quality and display values from Google Firebase in a mobile app developed using Flutter
+   - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p>
 
 ### Embedded Systems
 
