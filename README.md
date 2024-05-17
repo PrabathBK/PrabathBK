@@ -3,34 +3,48 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ## About Me
-
 I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have a deep-rooted interest in:
 - **Embedded Systems**
 - **Machine Learning**
 - **Internet of Things (IoT)**
 - **Full Stack Development**
 - **Entrepreneurship**
-  
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:512/1*_sWgDKA0EK_pkU2a0rLjdw.png">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabathBK&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
+
+## 🔭 Projects and Experience
+### IoT
+
+1. **Hydrolink**
+   - Description: Project to monitor water quality.
+   - Website: [Hydrolink](www.hydrolink.lk)
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Text.jpg?raw=true" alt="Hydrolink" width="200"/></p>
+
+2. **Industrial Portable Water Quality Measuring Device**
+   - Description: A device to measure industrial portable water quality.
+   - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p>
+
+### Embedded Systems
+
+1. **UART Communication with FPGA**
+   - Description: Project involving UART communication with FPGA.
+   - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>
+
+### Machine Learning
+- Project 1: [Project Title](link)
+  ![Machine Learning Custom Image](https://github.com/yourusername/yourrepository/raw/main/images/ml_project1.png)
+- Project 2: [Project Title](link)
+  ![Machine Learning Custom Image](https://github.com/yourusername/yourrepository/raw/main/images/ml_project2.png)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudex&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudex" /> </p>
+### Full Stack Development
+- Project 1: [Project Title](link)
+  ![Full Stack Custom Image](https://github.com/yourusername/yourrepository/raw/main/images/fullstack_project1.png)
+- Project 2: [Project Title](link)
+  ![Full Stack Custom Image](https://github.com/yourusername/yourrepository/raw/main/images/fullstack_project2.png)
 
--🌌 Excited about the Earendel Pro-Track IoT telescope mount project, diving deep into the cosmos using cutting-edge tech!
-
--💻 Mastering React Native for creating user-friendly apps that work seamlessly on various devices.
-
--🤖 Playing with ML-based image processing to analyze and visualize data in groundbreaking ways.
-
--💡 Ask me about Electronics, 3D Art, Machine Learning, and Microcontrollers!
-
--🚀 Now, delving into GAN and Stable Diffusion architecture, experimenting with control nets to create amazing things.
-
--💡 Working with high-speed microprocessors like STM32 for added technological prowess.
-
--🕵‍♂ Exploring criminal face generation for forensic search – pushing the boundaries of tech innovation!
-
-Keep soaring through the tech universe! 🚀🔭📱
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
