@@ -63,35 +63,26 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prabath-wijethilaka-4950b220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru basnayake" height="30" width="40" /></a>
-   
-<a href="https://fb.com/prabath wijethilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasiru basnayake" height="30" width="40" /></a>
-<a href="https://instagram.com/yasiru_lex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasiru_lex" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yasiru fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yasiru fx" height="30" width="40" /></a>
-</p>
+<a href="https://www.facebook.com/profile.php?id=100006623476514&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasiru basnayake" height="30" width="40" /></a>
+
 
 ## Github stats 📊
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/yasiruDEX/github-readme-stats"><img alt="Yasiru's's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=YasiruDEX&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-<a href="https://github.com/YasiruDEX/github-readme-stats"><img alt="Yasiru's's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruDEX&layout=compact&langs_count=8" height="192px"/></a>  <br/>
+    <a href="https://github.com/PrabathBK/github-readme-stats"><img alt="PrabathBK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=PrabathBK&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+<a href="https://github.com/PrabathBK/github-readme-stats"><img alt="PrabathBK's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabathBK&layout=compact&langs_count=8" height="192px"/></a>  <br/>
 </details>
 
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YasiruDEX&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![PrabathBK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrabathBK&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
-<details>
-  <summary>Profile Views 👁</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=YasiruDEX&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
 
 
 
