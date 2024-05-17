@@ -56,7 +56,11 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Description: This project focuses on predicting the presence or absence of cardiovascular disease based on various health metrics.
    - Repository: [Cardiovascular Disease Predictor](https://github.com/PrabathBK/Cardiovascular-Disease-Predictor)
 
+### Telecommunication
 
+1. **Point to point Communication using SDR and BladeRF**
+   - Description: This Project involving Point to point Communication simulation using SDR and implement BladeRF with realtime Audio communication
+   - Repository: [Point to point Communication using SDR and BladeRF](https://github.com/PrabathBK/Communication-Design-Project)
 
 
 
