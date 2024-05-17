@@ -151,12 +151,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
   <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="pyqt5" width="40" height="40"/>
   </a>
-  <a href="https://www.solidworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/SolidWorks_Logo.png" alt="solidworks" width="40" height="40"/>
-  </a>
-  <a href="https://www.altium.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="altium" width="40" height="40"/>
-  </a>
+
   <a href="https://colab.research.google.com/" target="_blank">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/>
   </a>
