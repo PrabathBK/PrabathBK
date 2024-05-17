@@ -1,9 +1,16 @@
-![MasterHead](https://raw.githubusercontent.com/Stability-AI/stablediffusion/main/assets/stable-samples/txt2img/768/merged-0006.png)
+![MasterHead](https://github.com/PrabathBK/PrabathBK/blob/main/Image/github.png?raw=true)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=36&duration=6500&pause=1500&color=F7F7F7&center=true&random=false&width=1000&height=70&lines=Hey+there!%F0%9F%98%8C+Yasiru+Basnayake+in+the+house!+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<h3 align="center">University of Moratuwa ENTC undergrad 🎓 | Hustling as a 3D freelancer on the side! 💻✨</h3>
+## About Me
 
+I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have a deep-rooted interest in:
+- **Embedded Systems**
+- **Machine Learning**
+- **Internet of Things (IoT)**
+- **Full Stack Development**
+- **Entrepreneurship**
+  
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:512/1*_sWgDKA0EK_pkU2a0rLjdw.png">
 
 
