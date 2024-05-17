@@ -17,7 +17,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 
 1. **Hydrolink**
    - Description: Project to monitor water quality.
-   - Website: [Hydrolink](www.hydrolink.lk)
+   - Website: [Hydrolink](https://www.hydrolink.lk)
    <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Text.jpg?raw=true" alt="Hydrolink" width="200"/></p>
 
 2. **Industrial Portable Water Quality Measuring Device**
