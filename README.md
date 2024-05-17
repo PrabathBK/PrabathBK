@@ -38,6 +38,12 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
    <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>
 
+### Telecommunication
+
+1. **Point to point Communication using SDR and BladeRF**
+   - Description: This Project involving Point to point Communication simulation using SDR and implement BladeRF with realtime Audio communication
+   - Repository: [Point to point Communication using SDR and BladeRF](https://github.com/PrabathBK/Communication-Design-Project)
+
 ### Machine Learning
 1. **DiabetesAI-WebProject**
    - Description: This web application is designed to predict the likelihood of an individual having diabetes based on various input feature.
@@ -55,11 +61,6 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Description: This project focuses on predicting the presence or absence of cardiovascular disease based on various health metrics.
    - Repository: [Cardiovascular Disease Predictor](https://github.com/PrabathBK/Cardiovascular-Disease-Predictor)
 
-### Telecommunication
-
-1. **Point to point Communication using SDR and BladeRF**
-   - Description: This Project involving Point to point Communication simulation using SDR and implement BladeRF with realtime Audio communication
-   - Repository: [Point to point Communication using SDR and BladeRF](https://github.com/PrabathBK/Communication-Design-Project)
 
 
 
