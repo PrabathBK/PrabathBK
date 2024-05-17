@@ -42,7 +42,6 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 1. **DiabetesAI-WebProject**
    - Description: This web application is designed to predict the likelihood of an individual having diabetes based on various input feature.
    - Repository: [DiabetesAI](https://github.com/PrabathBK/DiabetesAI-Webproject)
-   <p align="center"><img src="https://github.com/PrabathBK/DiabetesAI-Webproject/blob/main/diabetes.jpg?raw=true" alt="Hydrolink" width="200"/></p>
 2. **SMS Spam Detector**
    - Description: This repository contains a machine learning model for detecting spam SMS messages.
    - Repository: [SMS Spam Detector](https://github.com/PrabathBK/SMS-spam-detector)
