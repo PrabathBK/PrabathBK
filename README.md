@@ -9,6 +9,8 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
 - **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
 - **[Mobile App Development](https://github.com/PrabathBK#mobile-app-development)**
+- **[Telecommunication](https://github.com/PrabathBK#telecommunication)**
+- **[Analog Electronics](https://github.com/PrabathBK#analog-electronics)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabathBK&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
 
@@ -35,6 +37,23 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Repository: [System Verilog Examples Using Vivado](https://github.com/PrabathBK/RTL_Vivado.git)
 
 
+ ### Machine Learning
+1. **DiabetesAI-WebProject**
+   - Description: This web application is designed to predict the likelihood of an individual having diabetes based on various input features.
+   - Repository: [DiabetesAI](https://github.com/PrabathBK/DiabetesAI-Webproject)
+2. **SMS Spam Detector**
+   - Description: This repository contains a machine-learning model for detecting spam SMS messages.
+   - Repository: [SMS Spam Detector](https://github.com/PrabathBK/SMS-spam-detector)
+3. **Stock Prediction**
+   - Description: This repository contains an analysis and predictive model for stock prices, focusing on Apple Inc. (AAPL)
+   - Repository: [Stock Prediction](https://github.com/PrabathBK/Stock-prediction)
+4. **Breast Cancer Wisconsin Diagnostic predictor**
+   - Description: This repository contains an in-depth analysis of the Breast Cancer Wisconsin Diagnostic Dataset. 
+   - Repository: [Breast Cancer Wisconsin Diagnostic predictor](https://github.com/PrabathBK/Breast-Cancer-Wisconsin-Diagnostic-predictor)
+5. **Cardiovascular Disease Predictor**
+   - Description: This project focuses on predicting the presence or absence of cardiovascular disease based on various health metrics.
+   - Repository: [Cardiovascular Disease Predictor](https://github.com/PrabathBK/Cardiovascular-Disease-Predictor)
+
 ### Full Stack Development
 1. **Modular Software Development**
    - Description: Manufacturing and Assembly Line Planning and Management Subsystem for PCB Manufacturing Company
@@ -47,36 +66,18 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
  <!--  <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p>-->
 
-
-### Analog Electronics
-
-1. **Analog Portable Audio Amplifier**
-   - Description: This project Designed a Portable Audio Amplifier using only analog components. 
-   - Repository: [Analog Portable Audio Amplifier](https://github.com/PrabathBK/Analog-Portable-Audio-Amplifier)
-
-
 ### Telecommunication
 
 1. **Point to point Communication using SDR and BladeRF**
    - Description: This Project involving Point to point Communication simulation using SDR and implement BladeRF with realtime Audio communication
    - Repository: [Point to point Communication using SDR and BladeRF](https://github.com/PrabathBK/Communication-Design-Project)
 
-### Machine Learning
-1. **DiabetesAI-WebProject**
-   - Description: This web application is designed to predict the likelihood of an individual having diabetes based on various input feature.
-   - Repository: [DiabetesAI](https://github.com/PrabathBK/DiabetesAI-Webproject)
-2. **SMS Spam Detector**
-   - Description: This repository contains a machine learning model for detecting spam SMS messages.
-   - Repository: [SMS Spam Detector](https://github.com/PrabathBK/SMS-spam-detector)
-3. **Stock Prediction**
-   - Description: This repository contains an analysis and predictive model for stock prices, focusing on Apple Inc. (AAPL)
-   - Repository: [Stock Prediction](https://github.com/PrabathBK/Stock-prediction)
-4. **Breast Cancer Wisconsin Diagnostic predictor**
-   - Description: This repository contains an in-depth analysis of the Breast Cancer Wisconsin Diagnostic Dataset. 
-   - Repository: [Breast Cancer Wisconsin Diagnostic predictor](https://github.com/PrabathBK/Breast-Cancer-Wisconsin-Diagnostic-predictor)
-5. **Cardiovascular Disease Predictor**
-   - Description: This project focuses on predicting the presence or absence of cardiovascular disease based on various health metrics.
-   - Repository: [Cardiovascular Disease Predictor](https://github.com/PrabathBK/Cardiovascular-Disease-Predictor)
+
+### Analog Electronics
+
+1. **Analog Portable Audio Amplifier**
+   - Description: This project Designed a Portable Audio Amplifier using only analog components. 
+   - Repository: [Analog Portable Audio Amplifier](https://github.com/PrabathBK/Analog-Portable-Audio-Amplifier)
 
 
 
