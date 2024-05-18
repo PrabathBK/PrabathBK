@@ -186,7 +186,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
     <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Quartus-Prime-.png?raw=true" alt="flutter" width="40" height="40"/>
   </a>
    <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
-    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/vivado.png?raw=true" alt="flutter" width="50" height="40"/>
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/vivado.png?raw=true" alt="flutter" width="60" height="40"/>
   </a>
    <a href="https://www.canva.com/" target="_blank">
     <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/1656733637logo-canva-png.png?raw=true" alt="flutter" width="40" height="40"/>
