@@ -5,7 +5,7 @@
 ## About Me
 I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have a deep-rooted interest in:
 - **Embedded Systems**
-- **Machine Learning**
+- **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
 - **Internet of Things (IoT)**
 - **Full Stack Development**
 - **Entrepreneurship**
