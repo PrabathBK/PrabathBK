@@ -4,9 +4,9 @@
 
 ## About Me
 I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have done some projects in:
+- **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
 - **[Embedded Systems](https://github.com/PrabathBK#embedded-systems)**
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
-- **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
 - **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
 - **[Mobile App Development](https://github.com/PrabathBK#mobile-app-development)**
 
@@ -24,6 +24,16 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Description: An industrial portable device to measure water quality.
    - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
   <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p> -->
+### Embedded Systems
+
+1. **UART Communication with FPGA**
+   - Description: Project involving UART communication with FPGA.
+   - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
+  <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>-->
+2. **System Verilog Examples Using Vivado**
+   - Description: State Machine, ALU with IP, Combinational ALU, Counter, N-Bit Full adder
+   - Repository: [System Verilog Examples Using Vivado](https://github.com/PrabathBK/RTL_Vivado.git)
+
 
 ### Full Stack Development
 1. **Modular Software Development**
@@ -37,12 +47,6 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
  <!--  <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p>-->
 
-### Embedded Systems
-
-1. **UART Communication with FPGA**
-   - Description: Project involving UART communication with FPGA.
-   - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
-  <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>-->
 
 ### Analog Electronics
 
