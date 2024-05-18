@@ -4,7 +4,7 @@
 
 ## About Me
 I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have a deep-rooted interest in:
-- **[Embedded Systems]([https://www.hydrolink.lk](https://github.com/PrabathBK#embedded-systems))**
+- **[Embedded Systems](https://github.com/PrabathBK#embedded-systems)**
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
 - **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
 - **Full Stack Development**
