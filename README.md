@@ -7,8 +7,8 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 - **[Embedded Systems](https://github.com/PrabathBK#embedded-systems)**
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
 - **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
-- **[Full Stack Development](https://github.com/PrabathBK/PrabathBK/edit/main/README.md#full-stack-development)**
-- **[Mobile App Development](https://github.com/PrabathBK/PrabathBK/edit/main/README.md#mobile-app-development)**
+- **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
+- **[Mobile App Development](https://github.com/PrabathBK#mobile-app-development)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabathBK&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
 
