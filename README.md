@@ -174,7 +174,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="pyqt5" width="40" height="40"/>
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/800px-Python_and_Qt.svg.png?raw=true" alt="pyqt5" width="40" height="40"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/>
