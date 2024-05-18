@@ -150,7 +150,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Adobe-Photoshop-Logo.png?raw=true" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -179,11 +179,15 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
   <a href="https://colab.research.google.com/" target="_blank">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev/" target="_blank">
+  <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
-     <a href="https://flutter.dev/" target="_blank">
-    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Quartus-Prime-.png?raw=true" alt="flutter" width="40" height="40"/>
+
+   <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/vivado.png?raw=true" alt="flutter" width="40" height="40"/>
+  </a>
+   <a href="https://www.canva.com/" target="_blank">
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/1656733637logo-canva-png.png?raw=true" alt="flutter" width="40" height="40"/>
   </a>
 </p>
 
