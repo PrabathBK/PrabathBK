@@ -182,6 +182,9 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
+     <a href="https://flutter.dev/" target="_blank">
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Quartus-Prime-.png?raw=true" alt="flutter" width="40" height="40"/>
+  </a>
 </p>
 
 
