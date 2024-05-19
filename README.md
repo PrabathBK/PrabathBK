@@ -192,6 +192,10 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    <a href="https://www.canva.com/" target="_blank">
     <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/1656733637logo-canva-png.png?raw=true" alt="flutter" width="40" height="40"/>
   </a>
+
+<a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/azure.png?raw=true" alt="flutter" width="40" height="40"/>
+  </a>
 </p>
 
 
