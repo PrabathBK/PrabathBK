@@ -32,9 +32,9 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Description: Project involving UART communication with FPGA.
    - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
   <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>-->
-2. **System Verilog Examples Using Vivado**
-   - Description: There are some designs of State Machine, ALU with IP, Combinational ALU, Counter, N-Bit Full adder
-   - Repository: [System Verilog Examples Using Vivado](https://github.com/PrabathBK/RTL_Vivado.git)
+2. **System Verilog Examples**
+   - Description: There are some designs of State Machine, ALU with IP, Combinational ALU, Counter, N-Bit Full adder, 1-Bit Full adder
+   - Repository: [System Verilog Examples](https://github.com/PrabathBK/RTL.git)
 
 
  ### Machine Learning
