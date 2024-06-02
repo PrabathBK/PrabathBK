@@ -201,6 +201,12 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/azure.png?raw=true" alt="flutter" width="40" height="40"/>
   </a>
+  <a href="https://www.ros.org/" target="https://ros.org/">
+    <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="40" height="40"/>
+  </a>
+  <a href="http://gazebosim.org/" target="https://gazebosim.org/home">
+    <img src="https://raw.githubusercontent.com/gazebosim/gz-sim/main/logo/logo-dark.png" alt="gazebo" width="40" height="40"/>
+  </a>
 </p>
 
 
