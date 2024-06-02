@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/PrabathBK/PrabathBK/blob/main/Image/github.png?raw=true)
+![image](https://github.com/PrabathBK/PrabathBK/assets/121922040/97c0f5f3-2a03-4d23-a69a-88c70997be59)![MasterHead](https://github.com/PrabathBK/PrabathBK/blob/main/Image/github.png?raw=true)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!%F0%9F%91%8B+Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
 
@@ -7,7 +7,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 - **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
 - **[Embedded Systems - HDL](https://github.com/PrabathBK#embedded-systems)**
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
-- **[Robitics](https://github.com/PrabathBK#machine-learning)**
+- **[Robitics](https://github.com/PrabathBK#Robotics)**
 - **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
 - **[Mobile App Development](https://github.com/PrabathBK#mobile-app-development)**
 - **[Telecommunication](https://github.com/PrabathBK#telecommunication)**
@@ -201,11 +201,14 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/azure.png?raw=true" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://www.ros.org/" target="https://ros.org/">
-    <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="40" height="40"/>
+  <a href="https://www.ros.org/" target="_blank">
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Ros.png?raw=true" alt="ros2" width="80" height="40"/>
   </a>
-  <a href="http://gazebosim.org/" target="https://gazebosim.org/home">
-    <img src="https://raw.githubusercontent.com/gazebosim/gz-sim/main/logo/logo-dark.png" alt="gazebo" width="40" height="40"/>
+  <a href="http://gazebosim.org/" target="_blank">
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/gazebo.png?raw=true" alt="gazebo" width="40" height="40"/>
+  </a>
+    <a href="http://wiki.ros.org/rviz" target="_blank">
+    <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/splash.png?raw=true" alt="gazebo" width="40" height="40"/>
   </a>
 </p>
 
