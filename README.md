@@ -7,6 +7,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 - **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
 - **[Embedded Systems - HDL](https://github.com/PrabathBK#embedded-systems)**
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
+- **[Robitics](https://github.com/PrabathBK#machine-learning)**
 - **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
 - **[Mobile App Development](https://github.com/PrabathBK#mobile-app-development)**
 - **[Telecommunication](https://github.com/PrabathBK#telecommunication)**
@@ -35,7 +36,11 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 2. **System Verilog Examples**
    - Description: There are some designs of State Machine, ALU with IP, Combinational ALU, Counter, N-Bit Full adder, 1-Bit Full adder
    - Repository: [System Verilog Examples](https://github.com/PrabathBK/RTL.git)
-
+     
+### Robotics
+1. **Ros2-Simulation-with-Gazebo**
+   - Description: Map a room and navigate the robot from one location to another, avoiding obstacles along the way. Additionally, perform object tracking.
+   - Repository: [Ros2-Simulation-with-Gazebo](https://github.com/PrabathBK/Ros2-Simulation-with-Gazebo.git)
 
  ### Machine Learning
 1. **DiabetesAI-WebProject**
