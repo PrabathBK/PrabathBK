@@ -5,7 +5,7 @@
 ## About Me
 I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have done some projects in:
 - **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
-- **[Embedded Systems - HDL](https://github.com/PrabathBK#embedded-systems)**
+- **[Embedded Systems - HDL](https://github.com/PrabathBK#embedded-systems---hdl)**
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
 - **[Robotics](https://github.com/PrabathBK#Robotics)**
 - **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
@@ -64,6 +64,9 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Description: Manufacturing and Assembly Line Planning and Management Subsystem for PCB Manufacturing Company
    - Repository: [Manufacturing SubSystem](https://github.com/PrabathBK/CompanyB.git)
  <!--  <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/admin.png?raw=true" alt="Hydrolink" width="200"/></p> -->
+2. **Docker**
+   - Description: This repository contains Docker examples.
+   - Repository: [Docker Examples](https://github.com/PrabathBK/Docker)
 
 ### Mobile App Development
 1. **Industrial Portable Water Quality Measuring Device**
@@ -210,6 +213,11 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
     <a href="http://wiki.ros.org/rviz" target="_blank">
     <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/splash.png?raw=true" alt="gazebo" width="50" height="40"/>
   </a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/docker2.png?raw=true" alt="Docker" width="40" height="40"/>
+</a>
+
+
 </p>
 
 
