@@ -5,7 +5,7 @@
 ## About Me
 I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have done some projects in:
 - **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
-- **[Embedded Systems - HDL](https://github.com/PrabathBK#embedded-systems---hdl)**
+- **[Embedded Systems - Digital System Design](https://github.com/PrabathBK#embedded-systems---hdl)**
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
 - **[Robotics](https://github.com/PrabathBK#Robotics)**
 - **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
@@ -27,13 +27,17 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
    - Description: An industrial portable device to measure water quality.
    - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
   <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p> -->
-### Embedded Systems - HDL
+### Embedded Systems - Digital System Design
 
-1. **UART Communication with FPGA**
+1. **Accumulator with AXI Stream and Output Sum on 7-Segment Display**
+   - Description: This project implements a digital system that reads a stream of numbers via an AXI Stream interface, calculates their sum, and displays the result on a pair of 7-segment displays.
+   - Repository: [Accumulator with AXIS](https://github.com/PrabathBK/Accumulator-with-AXIS)
+
+2. **UART Communication with FPGA**
    - Description: Project involving UART communication with FPGA.
    - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
   <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>-->
-2. **System Verilog Examples**
+3. **System Verilog Examples**
    - Description: There are some designs of State Machine, ALU with IP, Combinational ALU, Counter, N-Bit Full adder, 1-Bit Full adder
    - Repository: [System Verilog Examples](https://github.com/PrabathBK/RTL.git)
      
