@@ -5,7 +5,7 @@
 ## About Me
 I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have done some projects in:
 - **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
-- **[Embedded Systems - Digital System Design](https://github.com/PrabathBK#embedded-systems---hdl)**
+- **[Embedded Systems - Digital System Design](https://github.com/PrabathBK#embedded-systems---digital-system-design)**
 - **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
 - **[Robotics](https://github.com/PrabathBK#Robotics)**
 - **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
