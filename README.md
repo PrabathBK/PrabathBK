@@ -29,15 +29,19 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
   <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p> -->
 ### Embedded Systems - Digital System Design
 
-1. **Accumulator with AXI Stream and Output Sum on 7-Segment Display**
+1. **Matrix Vector Multiplier using UART Communication**
+   - Description: This project implements a Matrix-Vector Multiplier (MVM) for FPGA, utilizing UART communication for data transfer from a PC to the FPGA, performing multiplication operations, and transmitting results back to the PC.
+   - Repository: [MVM with UART](https://github.com/PrabathBK/Matrix_vector_mul_UART)
+
+2. **Accumulator with AXI Stream and Output Sum on 7-Segment Display**
    - Description: This project implements a digital system that reads a stream of numbers via an AXI Stream interface, calculates their sum, and displays the result on a pair of 7-segment displays.
    - Repository: [Accumulator with AXIS](https://github.com/PrabathBK/Accumulator-with-AXIS)
 
-2. **UART Communication with FPGA**
+3. **UART Communication with FPGA**
    - Description: Project involving UART communication with FPGA.
    - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
   <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>-->
-3. **System Verilog Examples**
+4. **System Verilog Examples**
    - Description: There are some designs of State Machine, ALU with IP, Combinational ALU, Counter, N-Bit Full adder, 1-Bit Full adder
    - Repository: [System Verilog Examples](https://github.com/PrabathBK/RTL.git)
      
