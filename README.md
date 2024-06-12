@@ -12,7 +12,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 - **[Mobile App Development](https://github.com/PrabathBK#mobile-app-development)**
 - **[Telecommunication](https://github.com/PrabathBK#telecommunication)**
 - **[Analog Electronics](https://github.com/PrabathBK#analog-electronics)**
-- **[Image Processing](https://github.com/PrabathBK#analog-electronics)**
+- **[Image Processing](https://github.com/PrabathBK#image-processing)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabathBK&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
 
@@ -99,7 +99,7 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 ### Image processing
 
 1. **Hand Tracking projects with OpenCV**
-   - Description: This repository contains Hand gesture maths solver with AI project and Hand gesture volume controller project
+   - Description: This repository contains two projects, a Hand Gesture Math Solver with AI and a Hand Gesture Volume Controller.
    - Repository: [OpenCV Projects](https://github.com/PrabathBK/Hand_Tracking)
 
 
