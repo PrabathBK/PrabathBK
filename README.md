@@ -108,8 +108,9 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prabath-wijethilaka-4950b220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru basnayake" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006623476514&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasiru basnayake" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabath-wijethilaka-4950b220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prabath Wijethilaka" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006623476514&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Prabath Wijethilaka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCyehGfFIojp1koSlqyR9jdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Prabath Wijethilaka" height="30" width="40" /></a>
 
 
 ## Github stats 📊
