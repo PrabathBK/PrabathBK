@@ -121,14 +121,15 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
     <a href="https://github.com/PrabathBK/github-readme-stats"><img alt="PrabathBK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=PrabathBK&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
 <a href="https://github.com/PrabathBK/github-readme-stats"><img alt="PrabathBK's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabathBK&layout=compact&langs_count=8" height="192px"/></a>  <br/>
 </details>
-
+ <!--
 <details>
   <summary>Activity Graph 📈</summary>
-  <br/>
+  <br/>  -->
+ <!--
+[![PrabathBK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrabathBK&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-[![PrabathBK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrabathBK&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <!--</details> -->
 
-</details>
 
 
 
