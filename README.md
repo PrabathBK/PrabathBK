@@ -5,13 +5,19 @@
 ## 👨‍💻 About Me
 I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** undergraduate at the **University of Moratuwa**, passionate about building innovative solutions across hardware and software domains.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=FPGA+%7C+Embedded+Systems+%7C+IoT;Machine+Learning+%7C+Computer+Vision;Full+Stack+%7C+Mobile+Development;Hardware+%2B+Software+Integration" alt="Skills Typing Animation" />
+</p>
+
+<br/>
+
 ### 📂 Project Categories
 <div align="center">
 
-| [🌐 IoT](#iot) | [⚙️ Embedded Systems](#embedded-systems) | [💻 FPGA & Digital Design](#fpga-and-digital-system-design) | [🤖 Robotics](#robotics) |
+| [💻 FPGA & Digital Design](#fpga-and-digital-system-design) | [⚙️ Embedded Systems](#embedded-systems) | [🌐 IoT](#iot) | [🚀 Full Stack](#full-stack-development) |
 |:---:|:---:|:---:|:---:|
-| [🧠 Machine Learning](#machine-learning) | [🚀 Full Stack Development](#full-stack-development) | [📱 Mobile Development](#mobile-app-development) | [📡 Telecommunication](#telecommunication) |
-| [🔌 Analog Electronics](#analog-electronics) | [🖼️ Image Processing](#image-processing) | | |
+| [📱 Mobile](#mobile-app-development) | [🤖 Robotics](#robotics) | [🧠 ML](#machine-learning) | [📡 Telecom](#telecommunication) |
+| [🔌 Analog](#analog-electronics) | [🖼️ Image Processing](#image-processing) | | |
 
 </div>
 
@@ -24,25 +30,13 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 
 ## 🔭 Projects and Experience
 
-### 🌐 IoT
-
-1. **Hydrolink** 🌟
-   - Live project monitoring water quality in real-time
-   - 🌐 Website: [Hydrolink](https://www.hydrolink.lk)
-   - 📂 Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device) `IoT` `Mobile App` `Firebase`
-   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Text.jpg?raw=true" alt="Hydrolink" width="500"/></p>
-### ⚙️ Embedded Systems
-
-1. **EcoWatt - Smart Inverter Monitoring & Control System**
-   - Real-time inverter monitoring with IoT-enabled control system
-   - 📂 Repository: [EcoWatt](https://github.com/RPX2001/EcoWatt_TeamPowerPort) `ESP32` `IoT` `Embedded`
-
 ### 💻 FPGA and Digital System Design
 
 1. **Systolic Array Matrix Multiplication IPs for SLM Inference Engine on Edge** 🌟
    - Hardware accelerator IP for edge AI inference
    - 📂 Repository: [SLMs on Edge - Gemma Accelerator IP](https://github.com/PrabathBK/SLMs-on-Edge-Gemma_Accelerator_IP) `FPGA` `AI Accelerator` `Verilog`
-
+   - Awarded 1st Runners-Up at DVCON India 2025 in the Design and Verification Contest
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/DVCon.JPG?raw=true" alt="DVCon" width="500"/></p>
 2. **Pipeline-RV32Core**
    - Pipelined RISC-V 32-bit processor implementation
    - 📂 Repository: [Pipeline-RV32Core](https://github.com/PrabathBK/Pipeline-RV32Core) `RISC-V` `Verilog`
@@ -75,7 +69,46 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 9. **CNN Accelerator IP Core**
    - Hardware IP for CNN acceleration
    - `FPGA` `Deep Learning` `Hardware Accelerator`
-     
+
+### ⚙️ Embedded Systems
+
+1. **EcoWatt - Smart Inverter Monitoring & Control System**
+   - Real-time inverter monitoring with IoT-enabled control system
+   - 📂 Repository: [EcoWatt](https://github.com/RPX2001/EcoWatt_TeamPowerPort) `ESP32` `IoT` `Embedded`
+
+
+### 🌐 IoT
+
+1. **Hydrolink** 🌟
+   - Live project monitoring water quality in real-time
+   - 🌐 Website: [Hydrolink](https://www.hydrolink.lk)
+   - 📂 Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device) `IoT` `Mobile App` `Firebase`
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Text.jpg?raw=true" alt="Hydrolink" width="500"/></p>
+### 🚀 Full Stack Development
+
+1. **Flower Exchange Trading System** 🌟
+   - Real-time trading platform built with C++
+   - 📂 Repository: [Flower Exchange](https://github.com/PrabathBK/Flower_exchanger) `C++` `Trading System`
+
+2. **TransX - Transformer Maintenance Platform**
+   - Full-stack web platform for transformer maintenance management
+   - 📂 Repository: [TransX](https://github.com/PrabathBK/TransX-Transformer-Maintenance-Platform) `Full Stack` `React` `Node.js`
+
+3. **Manufacturing & Assembly Line Management System**
+   - Modular subsystem for PCB manufacturing operations
+   - 📂 Repository: [Manufacturing SubSystem](https://github.com/PrabathBK/CompanyB) `Enterprise Software`
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/admin.png?raw=true" alt="Manufacturing System" width="500"/></p>
+
+4. **Docker Examples & Containerization**
+   - Container orchestration and deployment examples
+   - 📂 Repository: [Docker Examples](https://github.com/PrabathBK/Docker) `Docker` `DevOps`
+
+### 📱 Mobile App Development
+
+1. **Hydrolink Mobile App** (See [IoT Section](#iot) for full project details)
+   - Flutter-based mobile app with Firebase integration for water quality monitoring
+   - 📂 Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device) `Flutter` `Firebase`
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="500"/></p>
 ### 🤖 Robotics
 
 1. **ROS2 Simulation with Gazebo**
@@ -104,31 +137,6 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
    - Health metrics-based disease prediction
    - 📂 Repository: [Cardiovascular Disease Predictor](https://github.com/PrabathBK/Cardiovascular-Disease-Predictor) `Healthcare AI`
 
-### 🚀 Full Stack Development
-
-1. **Flower Exchange Trading System** 🌟
-   - Real-time trading platform built with C++
-   - 📂 Repository: [Flower Exchange](https://github.com/PrabathBK/Flower_exchanger) `C++` `Trading System`
-
-2. **TransX - Transformer Maintenance Platform**
-   - Full-stack web platform for transformer maintenance management
-   - 📂 Repository: [TransX](https://github.com/PrabathBK/TransX-Transformer-Maintenance-Platform) `Full Stack` `React` `Node.js`
-
-3. **Manufacturing & Assembly Line Management System**
-   - Modular subsystem for PCB manufacturing operations
-   - 📂 Repository: [Manufacturing SubSystem](https://github.com/PrabathBK/CompanyB) `Enterprise Software`
-   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/admin.png?raw=true" alt="Manufacturing System" width="500"/></p>
-
-4. **Docker Examples & Containerization**
-   - Container orchestration and deployment examples
-   - 📂 Repository: [Docker Examples](https://github.com/PrabathBK/Docker) `Docker` `DevOps`
-
-### 📱 Mobile App Development
-
-1. **Hydrolink Mobile App** (See [IoT Section](#iot) for full project details)
-   - Flutter-based mobile app with Firebase integration for water quality monitoring
-   - 📂 Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device) `Flutter` `Firebase`
-   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="500"/></p>
 
 ### 📡 Telecommunication
 
@@ -169,13 +177,6 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=FPGA+%7C+Embedded+Systems+%7C+IoT;Machine+Learning+%7C+Computer+Vision;Full+Stack+%7C+Mobile+Development;Hardware+%2B+Software+Integration" alt="Skills Typing Animation" />
-</p>
-
-<br/>
-
-<p align="center">
-<p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
