@@ -300,7 +300,7 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:00B359&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Footer Wave" />
 </p>
 
 <p align="center">
