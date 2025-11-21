@@ -303,9 +303,9 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:00B359&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Footer Wave" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=3000&color=00E676&center=true&vCenter=true&width=600&lines=⭐+From+PrabathBK;Building+innovative+solutions;At+the+intersection+of+hardware+%26+software;Let's+connect+and+build+something+amazing!" alt="Footer Typing" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building%20the%20Future-00E676?style=for-the-badge&logo=rocket" alt="Status" />
