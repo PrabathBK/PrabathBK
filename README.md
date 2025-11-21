@@ -19,18 +19,8 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrabathBK&label=Profile%20views&color=00E676&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/PrabathBK?label=Followers&style=for-the-badge&color=00E676" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/PrabathBK?label=Total%20Stars&style=for-the-badge&color=00E676" alt="GitHub Stars" />
 </p>
 
-### 🎯 Current Focus
-
-```yaml
-🔬 Research: Edge AI & Hardware Acceleration
-💻 Building: Full-Stack & Embedded Systems
-📚 Learning: Advanced FPGA Design & RISC-V Architecture
-🎓 Status: Final Year @ University of Moratuwa
-```
 
 ## 🔭 Projects and Experience
 
@@ -172,45 +162,6 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 <a href="https://www.facebook.com/profile.php?id=100006623476514&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" /></a>
 <a href="https://www.youtube.com/channel/UCyehGfFIojp1koSlqyR9jdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" /></a>
 </p>
-
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrabathBK&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
-<details open>
-  <summary>📈 Detailed Stats & Analytics</summary>
-  <br/>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=PrabathBK&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676" height="180em" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabathBK&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=fff" height="180em" alt="Top Languages"/>
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabathBK&theme=dark&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="GitHub Streak Stats"/>
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabathBK&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&hide_border=true&area=true&area_color=00E676" alt="Contribution Graph" width="95%"/>
-  </p>
-  
-</details>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrabathBK/PrabathBK/output/snake.svg" alt="Snake animation" />
-</p>
-
-> **Note:** To enable the snake animation, add a GitHub Actions workflow. Create `.github/workflows/snake.yml` in your repository.
-
-
-
 
 
 ---
