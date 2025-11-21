@@ -15,7 +15,22 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabathBK&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrabathBK&label=Profile%20views&color=00E676&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/PrabathBK?label=Followers&style=for-the-badge&color=00E676" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/PrabathBK?label=Total%20Stars&style=for-the-badge&color=00E676" alt="GitHub Stars" />
+</p>
+
+### 🎯 Current Focus
+
+```yaml
+🔬 Research: Edge AI & Hardware Acceleration
+💻 Building: Full-Stack & Embedded Systems
+📚 Learning: Advanced FPGA Design & RISC-V Architecture
+🎓 Status: Final Year @ University of Moratuwa
+```
 
 ## 🔭 Projects and Experience
 
@@ -163,20 +178,36 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 
 ## 📊 GitHub Statistics
 
-<details>
-  <summary>📈 View Detailed Stats</summary>
-  <br/>
-    <a href="https://github.com/PrabathBK/github-readme-stats"><img alt="PrabathBK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=PrabathBK&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-<a href="https://github.com/PrabathBK/github-readme-stats"><img alt="PrabathBK's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabathBK&layout=compact&langs_count=8" height="192px"/></a>  <br/>
-</details>
- <!--
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>  -->
- <!--
-[![PrabathBK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrabathBK&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrabathBK&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
 
- <!--</details> -->
+<details open>
+  <summary>📈 Detailed Stats & Analytics</summary>
+  <br/>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/?username=PrabathBK&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676" height="180em" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabathBK&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=fff" height="180em" alt="Top Languages"/>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabathBK&theme=dark&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="GitHub Streak Stats"/>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabathBK&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&hide_border=true&area=true&area_color=00E676" alt="Contribution Graph" width="95%"/>
+  </p>
+  
+</details>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrabathBK/PrabathBK/output/snake.svg" alt="Snake animation" />
+</p>
+
+> **Note:** To enable the snake animation, add a GitHub Actions workflow. Create `.github/workflows/snake.yml` in your repository.
 
 
 
@@ -185,6 +216,12 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 ---
 
 ## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=FPGA+%7C+Embedded+Systems+%7C+IoT;Machine+Learning+%7C+Computer+Vision;Full+Stack+%7C+Mobile+Development;Hardware+%2B+Software+Integration" alt="Skills Typing Animation" />
+</p>
+
+<br/>
 
 <p align="center">
 <p align="left">
@@ -293,6 +330,12 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 ### 💡 Primary Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,react,nodejs,mysql,mongodb,firebase,flutter,docker,linux,git,vscode&perline=8" alt="Tech Stack Icons" />
+</p>
+
+### 🎨 Specialized Tools
+
+<p align="center">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
@@ -305,5 +348,14 @@ I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** u
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/PrabathBK">PrabathBK</a> | Building innovative solutions at the intersection of hardware and software</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" alt="Footer Wave" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=3000&color=00E676&center=true&vCenter=true&width=600&lines=⭐+From+PrabathBK;Building+innovative+solutions;At+the+intersection+of+hardware+%26+software;Let's+connect+and+build+something+amazing!" alt="Footer Typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-00E676?style=for-the-badge&logo=rocket" alt="Status" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-00E676?style=for-the-badge&logo=handshake" alt="Collaborations" />
 </p>
