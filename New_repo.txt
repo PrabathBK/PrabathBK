@@ -1,0 +1,16 @@
+
+
+
+Full Stack Development
+4.Flower Exchange Trading System with C++ - https://github.com/PrabathBK/Flower_exchanger
+5.TransX - Transformer Maintenance Full stack web Platform - https://github.com/PrabathBK/TransX-Transformer-Maintenance-Platform
+
+Embedded Systems
+6.EcoWatt - Smart Inverter Monitoring & Control System - https://github.com/RPX2001/EcoWatt_TeamPowerPort
+
+FPGA and Digital System Design
+7.Serial Bus Design
+8.CNN accelerator IP core
+1.Systolic Array Matrix Multiplication IPs for SLM Inference Engine on Edge - https://github.com/PrabathBK/SLMs-on-Edge-Gemma_Accelerator_IP
+2.Pipeline-RV32Core - https://github.com/PrabathBK/Pipeline-RV32Core
+3.RISC-V32 Single-Cycle Processor - https://github.com/PrabathBK/SIngle-Cylce-RV32Core

@@ -2,121 +2,169 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!%F0%9F%91%8B+Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
 
-## About Me
-I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **Electronic & Telecommunication Engineering** at the **University of Moratuwa**. I have done some projects in:
-- **[Internet of Things (IoT)](https://github.com/PrabathBK#iot)**
-- **[Embedded Systems - Digital System Design](https://github.com/PrabathBK#embedded-systems---digital-system-design)**
-- **[Machine Learning](https://github.com/PrabathBK#machine-learning)**
-- **[Robotics](https://github.com/PrabathBK#Robotics)**
-- **[Full Stack Development](https://github.com/PrabathBK#full-stack-development)**
-- **[Mobile App Development](https://github.com/PrabathBK#mobile-app-development)**
-- **[Telecommunication](https://github.com/PrabathBK#telecommunication)**
-- **[Analog Electronics](https://github.com/PrabathBK#analog-electronics)**
-- **[Image Processing](https://github.com/PrabathBK#image-processing)**
+## 👨‍💻 About Me
+I'm **Prabath Wijethilaka**, an **Electronic & Telecommunication Engineering** undergraduate at the **University of Moratuwa**, passionate about building innovative solutions across hardware and software domains.
+
+### 📂 Project Categories
+<div align="center">
+
+| [🌐 IoT](#iot) | [⚙️ Embedded Systems](#embedded-systems) | [💻 FPGA & Digital Design](#fpga-and-digital-system-design) | [🤖 Robotics](#robotics) |
+|:---:|:---:|:---:|:---:|
+| [🧠 Machine Learning](#machine-learning) | [🚀 Full Stack Development](#full-stack-development) | [📱 Mobile Development](#mobile-app-development) | [📡 Telecommunication](#telecommunication) |
+| [🔌 Analog Electronics](#analog-electronics) | [🖼️ Image Processing](#image-processing) | | |
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabathBK&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
 
 ## 🔭 Projects and Experience
-### IoT
 
-1. **Hydrolink**
-   - Description: Project to monitor water quality.
-   - Website: [Hydrolink](https://www.hydrolink.lk)
-   <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Text.jpg?raw=true" alt="Hydrolink" width="200"/></p> -->
+### 🌐 IoT
 
-2. **Industrial Portable Water Quality Measuring Device**
-   - Description: An industrial portable device to measure water quality.
-   - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
-  <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p> -->
-### Embedded Systems - Digital System Design
+1. **Hydrolink** 🌟
+   - Live project monitoring water quality in real-time
+   - 🌐 Website: [Hydrolink](https://www.hydrolink.lk)
+   - 📂 Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device) `IoT` `Mobile App` `Firebase`
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Text.jpg?raw=true" alt="Hydrolink" width="500"/></p>
+### ⚙️ Embedded Systems
 
-1. **Matrix Vector Multiplier using UART Communication**
-   - Description: This project implements a Matrix-Vector Multiplier (MVM) for FPGA, utilizing UART communication for data transfer from a PC to the FPGA, performing multiplication operations, and transmitting results back to the PC.
-   - Repository: [MVM with UART](https://github.com/PrabathBK/Matrix_vector_mul_UART)
+1. **EcoWatt - Smart Inverter Monitoring & Control System**
+   - Real-time inverter monitoring with IoT-enabled control system
+   - 📂 Repository: [EcoWatt](https://github.com/RPX2001/EcoWatt_TeamPowerPort) `ESP32` `IoT` `Embedded`
 
-2. **Accumulator with AXI Stream and Output Sum on 7-Segment Display**
-   - Description: This project implements a digital system that reads a stream of numbers via an AXI Stream interface, calculates their sum, and displays the result on a pair of 7-segment displays.
-   - Repository: [Accumulator with AXIS](https://github.com/PrabathBK/Accumulator-with-AXIS)
+### 💻 FPGA and Digital System Design
 
-3. **UART Communication with FPGA**
-   - Description: Project involving UART communication with FPGA.
-   - Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART.git)
-  <!-- <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="200"/></p>-->
-4. **System Verilog Examples**
-   - Description: There are some designs of State Machine, ALU with IP, Combinational ALU, Counter, N-Bit Full adder, 1-Bit Full adder
-   - Repository: [System Verilog Examples](https://github.com/PrabathBK/RTL.git)
+1. **Systolic Array Matrix Multiplication IPs for SLM Inference Engine on Edge** 🌟
+   - Hardware accelerator IP for edge AI inference
+   - 📂 Repository: [SLMs on Edge - Gemma Accelerator IP](https://github.com/PrabathBK/SLMs-on-Edge-Gemma_Accelerator_IP) `FPGA` `AI Accelerator` `Verilog`
+
+2. **Pipeline-RV32Core**
+   - Pipelined RISC-V 32-bit processor implementation
+   - 📂 Repository: [Pipeline-RV32Core](https://github.com/PrabathBK/Pipeline-RV32Core) `RISC-V` `Verilog`
+
+3. **RISC-V32 Single-Cycle Processor**
+   - Single-cycle RISC-V processor design
+   - 📂 Repository: [Single-Cycle RV32Core](https://github.com/PrabathBK/SIngle-Cylce-RV32Core) `RISC-V` `Verilog`
+
+4. **Matrix Vector Multiplier using UART Communication**
+   - FPGA-based MVM with PC communication via UART
+   - 📂 Repository: [MVM with UART](https://github.com/PrabathBK/Matrix_vector_mul_UART) `FPGA` `UART`
+
+5. **Accumulator with AXI Stream and 7-Segment Display**
+   - Stream processing with AXI interface and hardware display
+   - 📂 Repository: [Accumulator with AXIS](https://github.com/PrabathBK/Accumulator-with-AXIS) `FPGA` `AXI`
+
+6. **UART Communication with FPGA**
+   - UART protocol implementation on FPGA
+   - 📂 Repository: [FPGA UART](https://github.com/PrabathBK/FPGA_UART) `FPGA` `UART`
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/hardware%20implementation.png?raw=true" alt="UART Communication with FPGA" width="500"/></p>
+
+7. **System Verilog Design Examples**
+   - Collection of digital designs: State Machines, ALU, Counters, Adders
+   - 📂 Repository: [System Verilog Examples](https://github.com/PrabathBK/RTL) `SystemVerilog` `RTL`
+
+8. **Serial Bus Design**
+   - Custom serial communication bus implementation
+   - `FPGA` `Serial Communication`
+
+9. **CNN Accelerator IP Core**
+   - Hardware IP for CNN acceleration
+   - `FPGA` `Deep Learning` `Hardware Accelerator`
      
-### Robotics
-1. **Ros2-Simulation-with-Gazebo**
-   - Description: Map a room and navigate the robot from one location to another, avoiding obstacles along the way. Additionally, perform object tracking.
-   - Repository: [Ros2-Simulation-with-Gazebo](https://github.com/PrabathBK/Ros2-Simulation-with-Gazebo.git)
+### 🤖 Robotics
 
- ### Machine Learning
-1. **DiabetesAI-WebProject**
-   - Description: This web application is designed to predict the likelihood of an individual having diabetes based on various input features.
-   - Repository: [DiabetesAI](https://github.com/PrabathBK/DiabetesAI-Webproject)
+1. **ROS2 Simulation with Gazebo**
+   - Autonomous navigation with mapping, obstacle avoidance, and object tracking
+   - 📂 Repository: [Ros2-Simulation-with-Gazebo](https://github.com/PrabathBK/Ros2-Simulation-with-Gazebo) `ROS2` `Gazebo` `SLAM`
+
+### 🧠 Machine Learning
+
+1. **DiabetesAI Web Application**
+   - ML-powered web app for diabetes risk prediction
+   - 📂 Repository: [DiabetesAI](https://github.com/PrabathBK/DiabetesAI-Webproject) `Machine Learning` `Web App`
+
 2. **SMS Spam Detector**
-   - Description: This repository contains a machine-learning model for detecting spam SMS messages.
-   - Repository: [SMS Spam Detector](https://github.com/PrabathBK/SMS-spam-detector)
-3. **Stock Prediction**
-   - Description: This repository contains an analysis and predictive model for stock prices, focusing on Apple Inc. (AAPL)
-   - Repository: [Stock Prediction](https://github.com/PrabathBK/Stock-prediction)
-4. **Breast Cancer Wisconsin Diagnostic predictor**
-   - Description: This repository contains an in-depth analysis of the Breast Cancer Wisconsin Diagnostic Dataset. 
-   - Repository: [Breast Cancer Wisconsin Diagnostic predictor](https://github.com/PrabathBK/Breast-Cancer-Wisconsin-Diagnostic-predictor)
+   - NLP-based spam detection model
+   - 📂 Repository: [SMS Spam Detector](https://github.com/PrabathBK/SMS-spam-detector) `NLP` `Classification`
+
+3. **Stock Price Prediction**
+   - Time series analysis for AAPL stock prediction
+   - 📂 Repository: [Stock Prediction](https://github.com/PrabathBK/Stock-prediction) `Time Series` `LSTM`
+
+4. **Breast Cancer Diagnostic Predictor**
+   - Medical diagnosis using Wisconsin dataset
+   - 📂 Repository: [Breast Cancer Predictor](https://github.com/PrabathBK/Breast-Cancer-Wisconsin-Diagnostic-predictor) `Healthcare AI`
+
 5. **Cardiovascular Disease Predictor**
-   - Description: This project focuses on predicting the presence or absence of cardiovascular disease based on various health metrics.
-   - Repository: [Cardiovascular Disease Predictor](https://github.com/PrabathBK/Cardiovascular-Disease-Predictor)
+   - Health metrics-based disease prediction
+   - 📂 Repository: [Cardiovascular Disease Predictor](https://github.com/PrabathBK/Cardiovascular-Disease-Predictor) `Healthcare AI`
 
-### Full Stack Development
-1. **Modular Software Development**
-   - Description: Manufacturing and Assembly Line Planning and Management Subsystem for PCB Manufacturing Company
-   - Repository: [Manufacturing SubSystem](https://github.com/PrabathBK/CompanyB.git)
- <!--  <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/admin.png?raw=true" alt="Hydrolink" width="200"/></p> -->
-2. **Docker**
-   - Description: This repository contains Docker examples.
-   - Repository: [Docker Examples](https://github.com/PrabathBK/Docker)
+### 🚀 Full Stack Development
 
-### Mobile App Development
-1. **Industrial Portable Water Quality Measuring Device**
-   - Description: An industrial potable device to measure water quality and display values from Google Firebase in a mobile app developed using Flutter
-   - Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device.git)
- <!--  <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="200"/></p>-->
+1. **Flower Exchange Trading System** 🌟
+   - Real-time trading platform built with C++
+   - 📂 Repository: [Flower Exchange](https://github.com/PrabathBK/Flower_exchanger) `C++` `Trading System`
 
-### Telecommunication
+2. **TransX - Transformer Maintenance Platform**
+   - Full-stack web platform for transformer maintenance management
+   - 📂 Repository: [TransX](https://github.com/PrabathBK/TransX-Transformer-Maintenance-Platform) `Full Stack` `React` `Node.js`
 
-1. **Point to point Communication using SDR and BladeRF**
-   - Description: This Project involving Point to point Communication simulation using SDR and implement BladeRF with realtime Audio communication
-   - Repository: [Point to point Communication using SDR and BladeRF](https://github.com/PrabathBK/Communication-Design-Project)
+3. **Manufacturing & Assembly Line Management System**
+   - Modular subsystem for PCB manufacturing operations
+   - 📂 Repository: [Manufacturing SubSystem](https://github.com/PrabathBK/CompanyB) `Enterprise Software`
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/admin.png?raw=true" alt="Manufacturing System" width="500"/></p>
 
+4. **Docker Examples & Containerization**
+   - Container orchestration and deployment examples
+   - 📂 Repository: [Docker Examples](https://github.com/PrabathBK/Docker) `Docker` `DevOps`
 
-### Analog Electronics
+### 📱 Mobile App Development
 
-1. **Analog Portable Audio Amplifier**
-   - Description: This project Designed a Portable Audio Amplifier using only analog components. 
-   - Repository: [Analog Portable Audio Amplifier](https://github.com/PrabathBK/Analog-Portable-Audio-Amplifier)
+1. **Hydrolink Mobile App** (See [IoT Section](#iot) for full project details)
+   - Flutter-based mobile app with Firebase integration for water quality monitoring
+   - 📂 Repository: [Water Quality Measure Device](https://github.com/PrabathBK/Water-Quality-Measure-Device) `Flutter` `Firebase`
+   <p align="center"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/Enclousure.png?raw=true" alt="Water Quality Measuring Device" width="500"/></p>
 
-### Image processing
+### 📡 Telecommunication
 
-1. **Hand Tracking projects with OpenCV**
-   - Description: This repository contains two projects, a Hand Gesture Math Solver with AI and a Hand Gesture Volume Controller.
-   - Repository: [OpenCV Projects](https://github.com/PrabathBK/Hand_Tracking)
+1. **Point-to-Point Communication using SDR and BladeRF**
+   - Real-time audio communication with Software Defined Radio
+   - 📂 Repository: [SDR Communication System](https://github.com/PrabathBK/Communication-Design-Project) `SDR` `BladeRF` `Real-time Audio`
 
 
+### 🔌 Analog Electronics
+
+1. **Portable Audio Amplifier**
+   - Fully analog portable audio amplifier design
+   - 📂 Repository: [Analog Portable Audio Amplifier](https://github.com/PrabathBK/Analog-Portable-Audio-Amplifier) `Analog Design` `Audio Electronics`
+
+### 🖼️ Image Processing
+
+1. **Hand Tracking with OpenCV**
+   - AI-powered hand gesture recognition with math solver and volume control
+   - 📂 Repository: [Hand Tracking Projects](https://github.com/PrabathBK/Hand_Tracking) `OpenCV` `Computer Vision` `Gesture Recognition`
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prabath-wijethilaka-4950b220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prabath Wijethilaka" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006623476514&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Prabath Wijethilaka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCyehGfFIojp1koSlqyR9jdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Prabath Wijethilaka" height="30" width="40" /></a>
 
 
-## Github stats 📊
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prabath-wijethilaka-4950b220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006623476514&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" /></a>
+<a href="https://www.youtube.com/channel/UCyehGfFIojp1koSlqyR9jdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" /></a>
+</p>
+
+
+---
+
+## 📊 GitHub Statistics
 
 <details>
-  <summary>GitHub Profile Stats 💻</summary>
+  <summary>📈 View Detailed Stats</summary>
   <br/>
     <a href="https://github.com/PrabathBK/github-readme-stats"><img alt="PrabathBK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=PrabathBK&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
 <a href="https://github.com/PrabathBK/github-readme-stats"><img alt="PrabathBK's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabathBK&layout=compact&langs_count=8" height="192px"/></a>  <br/>
@@ -134,7 +182,11 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -238,14 +290,20 @@ I'm **Prabath Wijethilaka**, currently pursuing my undergraduate studies in **El
 
 </p>
 
+### 💡 Primary Tech Stack
 
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+</p>
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-</div>
+---
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/PrabathBK">PrabathBK</a> | Building innovative solutions at the intersection of hardware and software</i>
+</p>
